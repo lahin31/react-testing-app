@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Todos Component renders correctly 1`] = `
+<div>
+  <p
+    className="para"
+  >
+    React is a Library
+  </p>
+  <button
+    className="show_text_btn"
+    onClick={[Function]}
+  >
+    Show Text
+  </button>
+  <form
+    onSubmit={[Function]}
+  >
+    <input
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+    <button
+      className="add_text_btn"
+    >
+      Add
+    </button>
+  </form>
+</div>
+`;
